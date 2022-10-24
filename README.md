@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Cara Penggunaan Aplikasi
 
-<img src="ReadMe1.jpeg" width="200"><img src="ReadMe2.jpeg" width="200"><img src="ReadMe3.jpeg" width="200">
+<img src="ReadMe1.jpeg" width="200">&nbsp;<img src="ReadMe2.jpeg" width="200">&nbsp;<img src="ReadMe3.jpeg" width="200">
 
 - Saat pertama kali memulai aplikasi, maka akan muncul list user
 - Pada halaman ini juga tersedia form pencarian berdasarkan nama user
