@@ -2,15 +2,27 @@
 
 A new Flutter project.
 
-## Getting Started
+# Cara Penggunaan Aplikasi
 
-This project is a starting point for a Flutter application.
+<img src="ReadMe1.jpeg">
 
-A few resources to get you started if this is your first Flutter project:
+- Saat pertama kali memulai aplikasi, maka akan muncul list user
+- Pada halaman ini juga tersedia form pencarian berdasarkan nama user
+  <img src="ReadMe2.jpeg">
+- Lalu di sebelah kanan form tersebut terdapat tombol filter yang akan menampilkan list kota, yang mana saat salah satu kota tersebut diklik, maka list user akan otomatis diurutkan berdasarkan kota.
+- Selain itu juga disudut kanan atas terdapat tombol tambah yg mengantarkan anda pada halaman User Add
+  <img src="ReadMe3.jpeg">
+- Pada menu ini, Anda dapat menambah list user berdasarkan data yg anda iputkan
+- Semua field wajib untuk diisi
+- Jika sudah lengkap makan tekan tombol kirim, dan user list akan bertambah
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Teknologi yang digunakan
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter 2.2.3
+- Bloc as StateManagement
+- GetX as Route and Navigation
+- Get_it as Dependency Injection
+
+# Alasan tampilan
+
+- Sederhana & Mudah dipahami
